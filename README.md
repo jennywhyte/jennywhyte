@@ -3,7 +3,7 @@
 <h3 align="center"><b> I'm a Frontend Developer in-training.</b></h3>
 
 <div>
-<p align="center">  <img src="![mine](https://user-images.githubusercontent.com/103157284/198572912-5f17f8c6-9c3e-45ce-9eb6-d842f7b37f70.jpg)
+<p align="center">  <img src="![mine](https://user-images.githubusercontent.com/103157284/198573089-e8c2ba70-0e3d-4ac5-ac8d-77ff2238710c.jpg)
 " alt="" /></p>
 </div>
 
