@@ -1,6 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Uhunmwangho Jennifer Osasere.</h1>
 
-<h3 align="center"><b> I'm a Frontend Developer in-training.</b></h3>
 
 <div>
 <p align="center">  <img src="https://avatars.githubusercontent.com/u/103157284?v=4" alt="" /></p>
